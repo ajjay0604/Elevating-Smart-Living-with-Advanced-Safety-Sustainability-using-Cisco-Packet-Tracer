@@ -7,7 +7,8 @@ It integrates multiple IoT devices with a home gateway, enabling **automation, r
 
 The project focuses on **security, sustainability, and user convenience** while showcasing the potential of IoT in modern living.  
 
-<img width="2858" height="1264" alt="image" src="https://github.com/user-attachments/assets/8cd0d14f-fd48-48c6-9369-0cddc61790f3" />
+<img width="2878" height="1310" alt="image" src="https://github.com/user-attachments/assets/3e683163-9e28-4914-b171-387eba9a081d" />
+
 
 ## 🔑 Features  
 - **IoT Device Integration** – Smart control of appliances, doors, and sensors.  
